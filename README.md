@@ -1,7 +1,7 @@
 # TictacToe_Game_with_sound
 Tic-Tac-Toe is a classic two-player game where players take turns marking a 3x3 grid to form a line of their symbols ('X' or 'O') horizontally, vertically, or diagonally. The first to do so wins.
 
-# Game Rules:
+# !!!! Game Rules !!!!
 
 # Game Board:
 The game is played on a 3x3 grid, resulting in 9 cells.
